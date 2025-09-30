@@ -89,7 +89,6 @@ I specialize in crafting intuitive **front-end experiences** and **robust backen
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 💻 Tech Stack
-<sub>
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
@@ -157,7 +156,6 @@ I specialize in crafting intuitive **front-end experiences** and **robust backen
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-</sub>
 
 ---
 
