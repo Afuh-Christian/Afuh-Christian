@@ -66,7 +66,7 @@ I specialize in crafting intuitive **front-end experiences** and **robust backen
 ### 💬 Let’s Connect
 📫 **afuhchristian@gmail.com**  
 💼 [LinkedIn](https://linkedin.com/in/afuh-christian)  
-🌐 [Portfolio (coming soon)](https://github.com/Afuh-Christian)  
+🌐 [Portfolio](https://afuhchris.dev/) 
 
 ---
 
