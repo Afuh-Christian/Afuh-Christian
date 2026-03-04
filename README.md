@@ -76,7 +76,7 @@ I specialize in crafting intuitive **front-end experiences** and **robust backen
 
 ---
 
-⭐️ _“Bringing ideas to life through elegant code and thoughtful design.”_  
+⭐️ _“Bringing ideas to life through elegant code and thoughtful design.”_    
 
 ---
 
